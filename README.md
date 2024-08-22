@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the new [Groudwork's website](https://github.com/Groundwork-Books)
 
-- 📫 How to reach me adelinaballerina1@gmail.com
+- 📫 How to reach me adelina.martinez805@gmail.com
 
 - 🤝 I'm open to work! follow my [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
