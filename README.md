@@ -9,7 +9,7 @@
   
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1GHTyZJaULiGcS3u5w3FYl_TZ9NFFhkr_J7zxNnhE0z8/edit)
   
-- 🎨 View my [Design portfolio](https://adelinamartinez.myportfolio.com)
+- 🎨 View my [design portfolio](https://adelinamartinez.myportfolio.com)
   
 - 👾 Explore my [game dev portfolio](https://adelina805.itch.io)
 
