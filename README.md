@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adelina</h1>
 <h3 align="center">A student and aspiring UX/UI Designer</h3>
 
-- 🔭 I’m currently working on the new [Groudwork's website](https://github.com/Groundwork-Books)
+- 🔭 I’m currently working on the new [Groundwork Books website](https://github.com/Groundwork-Books)
 
 - 📫 How to reach me adelina.martinez805@gmail.com
 
