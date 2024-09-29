@@ -10,6 +10,8 @@
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1GHTyZJaULiGcS3u5w3FYl_TZ9NFFhkr_J7zxNnhE0z8/edit)
   
 - 🎨 View my [design portfolio](https://adelinamartinez.myportfolio.com)
+
+-  Check out this project I'm working on -> [Adelina's 3.js Website](https://adelina3js-bb30c.web.app/)
   
 - 👾 Explore my [game dev portfolio](https://adelina805.itch.io)
 
