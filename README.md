@@ -7,13 +7,13 @@
 
 - 🤝 I'm open to work! follow my [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1GHTyZJaULiGcS3u5w3FYl_TZ9NFFhkr_J7zxNnhE0z8/edit)
+- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1RHapt06kRspRb1MfFHDP6kUNTnEWNOsj/view?usp=drive_link)
   
-- 🎨 View my [design portfolio](https://adelinamartinez.myportfolio.com)
+- 🎨 View my projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
--  Check out this project I'm working on -> [Adelina's 3.js Website](https://adelina3js-bb30c.web.app/)
+- 🚀 Check out this project I'm working on --> [Adelina's three.js Website](https://adelina3js-bb30c.web.app/)
   
-- 👾 Explore my [game dev portfolio](https://adelina805.itch.io)
+- 👾 Explore my --> [game dev portfolio](https://adelina805.itch.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
