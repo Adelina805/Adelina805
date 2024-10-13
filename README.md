@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on the new [Groundwork Books website](https://github.com/Groundwork-Books)
 
-- 📫 How to reach me adelina.martinez805@gmail.com
+- 📫 How to reach me --> adelina.martinez805@gmail.com
 
-- 🤝 I'm open to work! follow my [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
+- 🤝 I'm open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1RHapt06kRspRb1MfFHDP6kUNTnEWNOsj/view?usp=drive_link)
+- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1RHapt06kRspRb1MfFHDP6kUNTnEWNOsj/view?usp=sharing)
   
 - 🎨 View my projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
-- 🚀 Check out this project I'm working on --> [Adelina's three.js Website](https://adelina3js-bb30c.web.app/)
+- 🚀 Check out this project I'm working on --> [three.js site](https://adelina3js-bb30c.web.app/)
   
 - 👾 Explore my --> [game dev portfolio](https://adelina805.itch.io)
 
