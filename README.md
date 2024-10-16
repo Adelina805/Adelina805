@@ -12,6 +12,8 @@
 - 🎨 View my projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
 - 🚀 Check out this project I'm working on --> [three.js site](https://adelina3js-bb30c.web.app/)
+
+- 🖼️ View my UI Design work on --> [Dribbble](https://dribbble.com/adelina805) 
   
 - 👾 Explore my --> [game dev portfolio](https://adelina805.itch.io)
 
