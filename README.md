@@ -7,7 +7,7 @@
 
 - 🤝 I'm open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1uRAvhK3PDa1N3_FLEik1qdFsYerJlf1r/view?usp=sharing)
+- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1eSYZaswiplIk8ZOGBBrMrlOApUqVYmKp/view?usp=sharing)
   
 - 🎨 View my projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
