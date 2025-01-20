@@ -13,7 +13,7 @@
 
 - 🖼️ View my UI Design work on --> [Dribbble](https://dribbble.com/adelina805) 
 
-- 🚀 Check out this project I'm working on --> [three.js site](https://adelina3js-bb30c.web.app/)
+- 🚀 Check out this 3D website I made --> [three.js site](https://adelina3js-bb30c.web.app/)
   
 - 👾 Explore my --> [game dev portfolio](https://adelina805.itch.io)
 
