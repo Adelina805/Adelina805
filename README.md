@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Adelina</h1>
-<h3 align="center">A student and aspiring UX/UI Designer</h3>
+<h3 align="center">A CS student and aspiring UX/UI Designer</h3>
 
 - 🔭 I’m currently working on the new [Groundwork Books website](https://github.com/Groundwork-Books)
 
 - 📫 How to reach me --> adelina.martinez805@gmail.com
 
-- 🤝 I'm open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
+- 🤝 I'm open to internships and work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my experiences --> [resume](https://drive.google.com/file/d/1eSYZaswiplIk8ZOGBBrMrlOApUqVYmKp/view?usp=sharing)
+- 📄 Know about my professional experiences --> [resume](https://drive.google.com/file/d/10ffCXDsMmFJyIqTmKHkzrjNQu55baVwr/view?usp=sharing)
   
-- 🎨 View my projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
+- 🎨 View my UX/UI Design projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
-- 🖼️ View my UI Design work on --> [Dribbble](https://dribbble.com/adelina805) 
+- 🖼️ View more my UI Design work on --> [Dribbble](https://dribbble.com/adelina805) 
 
-- 🚀 Check out this 3D website I made --> [three.js site](https://adelina3js-bb30c.web.app/)
+- 🚀 Check out this cool 3D website I made --> [three.js site](https://adelina3js-bb30c.web.app/)
   
-- 👾 Explore my --> [game dev portfolio](https://adelina805.itch.io)
+- 👾 Explore some of my minigames on my --> [game dev portfolio](https://adelina805.itch.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
