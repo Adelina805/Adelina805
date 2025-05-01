@@ -7,7 +7,7 @@
 
 - 🤝 I'm open to internships and work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my professional experiences --> [resume](https://drive.google.com/file/d/10ffCXDsMmFJyIqTmKHkzrjNQu55baVwr/view?usp=sharing)
+- 📄 Know about my professional experiences --> [resume](https://drive.google.com/file/d/1vkrDMIeAirJ3K-pBWt_fRhIRrNzeQA0o/view?usp=sharing)
   
 - 🎨 View my UX/UI Design projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
@@ -15,7 +15,7 @@
 
 - 🚀 Check out this cool 3D website I made --> [three.js site](https://adelina3js-bb30c.web.app/)
   
-- 👾 Explore some of my minigames on my --> [game dev portfolio](https://adelina805.itch.io)
+- 👾 Explore some of my games on my --> [game dev portfolio](https://adelina805.itch.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
