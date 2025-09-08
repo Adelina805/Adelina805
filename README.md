@@ -7,8 +7,6 @@
 
 - 🤝 I'm open to internships and work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 📄 Know about my professional experiences --> [resume](https://drive.google.com/file/d/1vkrDMIeAirJ3K-pBWt_fRhIRrNzeQA0o/view?usp=sharing)
-  
 - 🎨 View my UX/UI Design projects on my --> [design portfolio](https://adelinamartinez.myportfolio.com)
 
 - 🖼️ View more my UI Design work on --> [Dribbble](https://dribbble.com/adelina805) 
