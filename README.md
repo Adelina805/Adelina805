@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelina</h1>
-<h3 align="center">A CS student and aspiring UX/UI Designer</h3>
+<h3 align="center">A CS student and Creative Designer & Developer</h3>
 
 - 🔭 I’m currently working on the new [Groundwork Books website](https://github.com/Groundwork-Books)
 
