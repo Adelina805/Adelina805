@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adelina</h1>
 <h3 align="center">A CS student and Creative Designer & Developer</h3>
 
-- 🔭 I’m currently working on [Aquacalma!](https://aquacalma.vercel.app/)
-
 - 📫 How to reach me --> adelina.martinez805@gmail.com
 
-- 🤝 I'm open to internships and work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
+- 🤝 I'm always open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
-- 🎨 View my projects and archive on my --> [portfolio](https://adelina805.github.io/)
+- 🎨 View my projects and work on my --> [portfolio](https://adelina805.github.io/)
+
+- 🐟 Check out this cool thing I made --> [Aquacalma!](https://aquacalma.vercel.app/)
   
 - 👾 Explore some of my games on my --> [game dev portfolio](https://adelina805.itch.io)
