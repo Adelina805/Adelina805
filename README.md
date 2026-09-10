@@ -6,7 +6,3 @@
 - 🤝 I'm always open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
   
 - 🎨 View my projects and work on my --> [portfolio](https://adelinam.com/)
-
-- 🐟 Check out this cool thing I made --> [Aquacalma!](https://aquacalma.vercel.app/)
-  
-- 👾 Explore some of my games on my --> [game dev portfolio](https://adelina805.itch.io)
