@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adelina</h1>
-<h3 align="center">A CS student and Creative Designer & Developer</h3>
+# adelina martinez
 
-- 📫 How to reach me --> adelina.martinez805@gmail.com
+**Creative developer & designer.**
 
-- 🤝 I'm always open to work! follow my --> [LinkedIn](https://www.linkedin.com/in/adelina-martinez/)
-  
-- 🎨 View my projects and work on my --> [portfolio](https://adelinam.com/)
+I design, build, and experiment with digital experiences.  
+Interested in creative coding, thoughtful interfaces, and making things feel a little more alive.
+
+[Portfolio ↗](https://adelinam.com/)
