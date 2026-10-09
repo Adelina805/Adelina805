@@ -2,14 +2,14 @@
 <title>adelina martinez</title>
 <desc>Original flow-field streamlines with centered wordmark and calm SVG motion.</desc>
 <defs>
-<filter id="ff-text-expand" x="-30%" y="-30%" width="160%" height="160%">
-<feMorphology operator="dilate" radius="24" in="SourceGraphic"/>
+<filter id="ff-mask-soften" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="20"/>
 </filter>
 <mask id="ff-stream-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="420">
 <rect width="1200" height="420" fill="white"/>
-<text x="600" y="212" text-anchor="middle" dominant-baseline="middle"
-font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="52" font-weight="600"
-fill="black" filter="url(#ff-text-expand)">adelina martinez</text>
+<g filter="url(#ff-mask-soften)">
+<rect x="328" y="154" width="544" height="116" rx="58" ry="58" fill="black"/>
+</g>
 </mask>
 <style><![CDATA[
 @media (prefers-reduced-motion: reduce) {
