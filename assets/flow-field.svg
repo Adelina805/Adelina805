@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="adelina martinez — animated generative flow field wordmark">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 78 1200 316" width="1200" height="316" role="img" aria-label="adelina martinez — animated generative flow field wordmark">
 <title>adelina martinez</title>
 <desc>Original flow-field streamlines with centered wordmark and calm SVG motion.</desc>
 <defs>
@@ -28,5 +28,5 @@ fill="black" filter="url(#ff-text-expand)">adelina martinez</text>
 font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="52" font-weight="600"
 fill="#f0f2f8">adelina martinez</text>
 </g>
-<rect x="0.5" y="0.5" width="1199" height="419" fill="none" stroke="#ffffff" stroke-width="1"/>
+<rect x="0.5" y="78.5" width="1199" height="315" fill="none" stroke="#ffffff" stroke-width="1"/>
 </svg>
