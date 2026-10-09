@@ -23,7 +23,7 @@
   #ff-streamlines g[stroke="#4172bd"] { stroke: #143d73; }
 }
 ]]></style>
-<filter id="ff-mask-blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="28" /></filter><mask id="ff-stream-mask" maskUnits="userSpaceOnUse" x="-36" y="30" width="1272" height="445.2"><rect x="-36" y="30" width="1272" height="445.2" fill="white" /><ellipse cx="600.0" cy="252.6" rx="450" ry="82" fill="black" filter="url(#ff-mask-blur)" /></mask></defs>
+<filter id="ff-mask-blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="26" /></filter><mask id="ff-stream-mask" maskUnits="userSpaceOnUse" x="-36" y="30" width="1272" height="445.2"><rect x="-36" y="30" width="1272" height="445.2" fill="white" /><ellipse cx="600.0" cy="239.5" rx="392" ry="69" fill="black" filter="url(#ff-mask-blur)" /></mask></defs>
 
 <g id="ff-streamlines" filter="url(#ff-drift)" mask="url(#ff-stream-mask)">
 <g fill="none" stroke-linecap="round" transform="translate(600.0,236.0) scale(1.38) translate(-600.0,-236.0)">
@@ -52,4 +52,9 @@
 <g stroke-dasharray="24 8" stroke-dashoffset="0" stroke="#4172bd" stroke-width="2.00" opacity="0.375"><animate attributeName="stroke-dashoffset" values="0;32;0" dur="19.57s" begin="8.14s" repeatCount="indefinite" calcMode="linear" /></g>
 </g>
 </g>
-<g id="ff-wordmark"><text x="600.0" y="258.6" text-anchor="middle" dominant-baseline="middle" fill="#f0eeea" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="0.02em">adelina martinez</text></g></svg>
+<g id="ff-wordmark"><text x="600.0" y="258.6" text-anchor="middle" dominant-baseline="middle" fill="#f0eeea" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="0.02em">adelina martinez</text></g>
+<g id="ff-debug-overlay" aria-hidden="true" pointer-events="none">
+<rect id="ff-debug-viewport" x="-35.5" y="30.5" width="1271" height="444.2" fill="none" stroke="#ffffff" stroke-width="1" />
+<rect id="ff-debug-text-bbox" x="392.8" y="229.6" width="414.4" height="58" fill="none" stroke="#ff0000" stroke-opacity="0.75" stroke-width="1" stroke-dasharray="6 4" />
+<ellipse id="ff-debug-exclusion" cx="600" cy="239.5" rx="392" ry="69" fill="none" stroke="#ff8800" stroke-opacity="0.85" stroke-width="1.5" stroke-dasharray="10 6" />
+</g></svg>
